@@ -25,14 +25,6 @@ export default {
  data(){
   return{
             todos:[
-                {id:"001",title:"喝酒",done:true},
-                {id:"002",title:"抽烟",done:true},
-                {id:"003",title:"开车",done:true},
-                {id:"004",title:"学习",done:true},
-                {id:"005",title:"烫头",done:true},
-                {id:"006",title:"吃饭",done:true},
-                {id:"007",title:"喝水",done:true},
-
             ]
         }
  },
